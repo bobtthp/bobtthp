@@ -1,16 +1,24 @@
-### Hi there 👋
 
-<!--
-**bobtthp/bobtthp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+hi, i'm [bobtthp ]()
 
-Here are some ideas to get you started:
+## middleware
+- kubernetes/docker/containerd
+- system monitor
+- micro service/service mesh
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## language
+- golang/python/shell/sql
+
+## extra
+  
+- 💼 any freelance work? do reach, [email](bobtthp@hotmail.com) :)
+- 💬 ask me about anything, i am happy to help;
+
+
+
+# Bobtthp  
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)]()
+ 
+[![bobtthp's GitHub stats](https://github-readme-stats.vercel.app/api?username=bobtthp)]()

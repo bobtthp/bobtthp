@@ -7,7 +7,7 @@ hi, i'm [bobtthp ]()
 - micro service/service mesh
 
 ## language
-- golang/python/shell/sql
+- golang/python
 
 ## extra
   

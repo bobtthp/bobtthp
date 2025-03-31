@@ -1,18 +1,16 @@
 
 hi, i'm [bobtthp ]()
 
-## middleware
-- kubernetes/docker/containerd
-- system monitor
-- micro service/service mesh
+## Technical Skills
+Cloud-native tech like Microservice, Service Mesh, Kubernetes, Docker, etc. 
 
-## language
-- golang/python
+## Program Language
+- Golang, Python, Java, Rust, C++
 
 ## extra
   
-- 💼 any freelance work? do reach, [email](bobtthp@hotmail.com) :)
-- 💬 ask me about anything, i am happy to help;
+- 💼 Any freelance work? do reach, [email](bobtthp@hotmail.com) :)
+- 💬 Ask me about anything, i am happy to help;
 
 
 
